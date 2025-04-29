@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineer | Hardware Engineer
 -------------------------------------
 
-You can call me Plakraphong ,\_\_\_, \[O.o\] /)\_\_) -"--"-
+You can call me Plakraphong 
+,___,
+[O.o]
+/)__)
+-"--"-
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [maxkanicrc@gmail.com](mailto:maxkanicrc@gmail.com)
