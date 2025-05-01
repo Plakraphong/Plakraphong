@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/japan%20gif%20git.gif" width="100"/>
+  <img src="[https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/japan%20gif%20git.gif](https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/home-sweet-home.gif)" width="200%"/>
 </div>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sutthiphong
