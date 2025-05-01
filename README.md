@@ -1,7 +1,3 @@
-<div> 
- <img=src"https://mir-s3-cdn-cf.behance.net/project_modules/hd/201d0e72113381.5bdc333dd4008.gif"/>
-</div>
-
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sutthiphong
 ===================================================================================================================================
